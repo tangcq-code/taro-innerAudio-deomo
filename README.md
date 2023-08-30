@@ -1,4 +1,4 @@
-# taro-innerAudio-deomo
+# taro-innerAudio-demo
 ### 简介
 这是InnerAudioContext 的演示demo。h5存在问题：onError和offError的入参callback定义的不一致，无法配对进行监听/取消监听
 
